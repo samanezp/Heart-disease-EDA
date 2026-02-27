@@ -1,4 +1,4 @@
-# 📊 Heart Disease - Exploratory Data Analysis (EDA)
+# Heart Disease - Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
 This project presents an Exploratory Data Analysis (EDA) of the Heart Disease dataset.  
@@ -6,7 +6,7 @@ The objective is to explore clinical patterns, understand feature relationships,
 
 ---
 
-## 🎯 Objectives
+## 📌 Objectives
 - Understand dataset structure and feature types  
 - Analyze numerical and categorical distributions  
 - Examine relationships between variables  
@@ -35,7 +35,7 @@ Source: UCI Machine Learning Repository / Kaggle
 
 ---
 
-## 🛠️ Tools & Libraries
+## 📌 Tools & Libraries
 - Python  
 - Pandas  
 - NumPy  
@@ -45,7 +45,7 @@ Source: UCI Machine Learning Repository / Kaggle
 
 ---
 
-## 📊 Key Insights
+## 📌 Key Insights
 - `oldpeak` and `thalach` show strong separation between target classes.  
 - Categorical features such as `cp`, `ca`, and `thal` exhibit meaningful distribution differences.  
 - Among binary variables, `exang` demonstrates notable structural associations.  
@@ -53,10 +53,11 @@ Source: UCI Machine Learning Repository / Kaggle
 
 ---
 
-## 🚀 Conclusion
+## 📌 Conclusion
 The analysis highlights several influential clinical indicators relevant to heart disease prediction.  
 These findings provide a strong foundation for subsequent machine learning modeling.
 
 ---
+
 
 📌 This project focuses on exploratory analysis only. Future work may include feature engineering and predictive modeling.
